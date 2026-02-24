@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "夜行性ハイズ (Cover)",
+  "base_artist": "Poppin'Party",
+  "createdAt": "2026-02-24T12:00:07.486305Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜行性ハイズ",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/01_夜行性ハイズ_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夜行性ハイズ",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/02_夜行性ハイズ_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夜行性ハイズ",
+      "artist": "DECO*27, Rockwell",
+      "has_synced": true,
+      "path": "select/03_夜行性ハイズ_DECO_27,_Rockwell.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜行性ハイズ",
+      "artist": "Poppin'Party (愛美, 大塚紗英, 西本りみ, 大橋彩香, 伊藤彩沙)",
+      "has_synced": false,
+      "path": "select/pl_01_夜行性ハイズ_Poppin'Party_(愛美,_大塚紗英,_西本りみ,_大橋彩香,_伊藤彩沙).txt"
+    }
+  ]
+}
